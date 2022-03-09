@@ -1,0 +1,13 @@
+.centrage{
+  text-align: center;
+}
+.copyright{
+  font-family: monospace;
+  font-style: italic;
+  font-size: small;
+}
+.menu{
+  font-family: monospace;
+  padding: 20px;
+  background-color: darkcyan;
+}
