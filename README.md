@@ -1,0 +1,2 @@
+# qualitecod 
+exercice de git 
