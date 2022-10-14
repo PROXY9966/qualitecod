@@ -1,2 +1,2 @@
-# qualitecod 
+# qualitecode
 exercice de git 
